@@ -446,8 +446,8 @@
         <mxCell id="ZSqF7Dfmm4sAgApZDvvV-28" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" value="" vertex="1">
           <mxGeometry height="10" width="1980" x="-310" y="4050" as="geometry" />
         </mxCell>
-        <mxCell id="ZSqF7Dfmm4sAgApZDvvV-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;LOW LEVEL DESIGNING :&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="200" x="-21" y="4090" as="geometry" />
+        <mxCell id="ZSqF7Dfmm4sAgApZDvvV-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;LOW LEVEL DESIGNING :&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="-312" y="4075" as="geometry" />
         </mxCell>
         <mxCell id="ZSqF7Dfmm4sAgApZDvvV-70" edge="1" parent="1" source="ZSqF7Dfmm4sAgApZDvvV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="ZSqF7Dfmm4sAgApZDvvV-83">
           <mxGeometry relative="1" as="geometry">
@@ -734,6 +734,18 @@
         <mxCell id="ZSqF7Dfmm4sAgApZDvvV-171" edge="1" parent="1" source="ZSqF7Dfmm4sAgApZDvvV-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ZSqF7Dfmm4sAgApZDvvV-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n_FnVQ9hFK8SNY5MrP9b-2" edge="1" parent="1" source="ZSqF7Dfmm4sAgApZDvvV-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" target="ZSqF7Dfmm4sAgApZDvvV-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1405" y="4938" />
+              <mxPoint x="1590" y="4938" />
+              <mxPoint x="1590" y="4608" />
+              <mxPoint x="1190" y="4608" />
+            </Array>
+            <mxPoint x="1410" y="4938.030000000001" as="sourcePoint" />
+            <mxPoint x="1250" y="4608.06" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZSqF7Dfmm4sAgApZDvvV-153" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
           <mxGeometry height="80" width="60" x="1345" y="4900" as="geometry" />
         </mxCell>
@@ -781,6 +793,9 @@
         </mxCell>
         <mxCell id="ZSqF7Dfmm4sAgApZDvvV-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="CONNECTED THROUGH CDC PIPELINE" vertex="1">
           <mxGeometry height="30" width="250" x="1320" y="4820" as="geometry" />
+        </mxCell>
+        <mxCell id="n_FnVQ9hFK8SNY5MrP9b-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CDN PIPELINE CONNECTING INVENTORY&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DATABASE TO PRODUCT DATABASE SO THAT REAL&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;TIME CHANGES OF INVENTORY DB CAN OF QUANTITY&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;CAN BE DONE IN PRODUCT DB TOO&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="1570" y="4640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
